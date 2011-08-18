@@ -1,0 +1,5 @@
+body { font-family: 'Architects Daughter', cursive; color: #ccc; background: #181818 url("../img/bg.jpg") left fixed no-repeat; }
+#header, #content, #footer { margin-left: 350px;}
+.azul { color:#03bcfd; }
+a { text-decoration: none; color:#03bcfd; }
+a:hover { text-decoration: underline; }
