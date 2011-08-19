@@ -1,5 +1,5 @@
-body { font-family: 'Architects Daughter', cursive; color: #ccc; background: #181818 url("../img/bg.jpg") left fixed no-repeat; }
-#header, #content, #footer { margin-left: 350px;}
-.azul { color:#03bcfd; }
-a { text-decoration: none; color:#03bcfd; }
+body { font-family: 'Aldrich', sans-serif; color: #ccc; background: #181818 url("../img/bg.jpg") left fixed no-repeat; }
+#header, #content, #footer { margin-left: 0px;}
+.azul { color:#00CD00; }
+a { text-decoration: none; color:#00CD00; }
 a:hover { text-decoration: underline; }
